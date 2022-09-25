@@ -24,7 +24,7 @@ Before completing the final analysis, we reviewed the data to obtain an understa
   - Total Fares: $39,854.38
   - Average Fare per Ride: $24.53
   - Average Fare per Driver: $16.57
-
+Table below add a side by side visual of items above. 
 
 
 ![Summary Weekly Fares by City Type](https://github.com/codfjenn/PyBer_Challenge/blob/main/PyBer_fare_summary.png)
